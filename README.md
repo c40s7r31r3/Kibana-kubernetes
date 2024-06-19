@@ -30,7 +30,8 @@ That's all for the ELK cluster setup. If you want to test it using the applicati
 You can filter the log based on Kubernetes label name and error type.
 
 # Kibana Snap
-![kibana](kibana.png)
+![image](https://github.com/c40s7r31r3/Kibana-kubernetes/assets/166651175/7eb066d6-ee5d-4997-8bf3-950cb4ea5e6e)
+
 
 That's all my friends!!! start using your ELK cluster. Give me a star if you like it.
 
